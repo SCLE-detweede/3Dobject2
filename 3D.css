@@ -11,14 +11,14 @@ body {
 
 model-viewer {
     width: 100%;
-    max-width: 1000px;
-    height: 100vh;
+    max-width: 800px;
+    height: 80vh;
     background-color: #fff;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1900px) {
     model-viewer {
         width: 90%;
         height: 70vh;
