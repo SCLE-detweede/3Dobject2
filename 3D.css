@@ -11,7 +11,7 @@ body {
 
 model-viewer {
     width: 100%;
-    max-width: 800px;
+    max-width: 1900px;
     height: 80vh;
     background-color: #fff;
     border-radius: 10px;
